@@ -1,13 +1,15 @@
 # Generations Barbershop
 
-Static, responsive business website. Serve `dist/` with any static host. No build or dependencies required. `index.html` contains the styling and progressive enhancement animations. Call links use the verified shop phone; map and social links use the official Linktree destinations.
+Responsive static site. Serve dist/. Vercel output directory is configured by vercel.json. No install or build required.
 
-## Before public launch
-Confirm permission to use the official logo and third-party photographs. Photographs are attributed on the website, but reuse licenses have not been verified. Confirm shop contact details, services and all copy with the owner. Hours and prices are deliberately omitted because current sources are inconsistent. Review excerpts are short verbatim excerpts from the linked BestProsInTown listing; no aggregate rating or invented reviewer names are shown.
+## Verified photography
+The hero uses the shop's own November 6, 2025 Instagram post, which shows Generations branding and matches the shop phone and address. This is the newest dated official-branding photograph located, not a claim that the photographs were captured in 2026. Older Delaware-era photographs have been removed from the page.
 
-## Sources
-- https://linktr.ee/GenerationsBarbershop
-- https://villageoflindenhurstny.gov/delaware-barber-shop-ribbon-cutting-ceremony/
-- https://www.bestprosintown.com/ny/lindenhurst/delaware-barber-shop-/
+Official Instagram: https://www.instagram.com/generations__barbershop/
+Photo post: https://www.instagram.com/generations__barbershop/p/DQuOecIkfTK/
+Identity chain: official Facebook profile 61555061217139 links this Instagram and the original Linktree.
 
-The `.openai/hosting.json` file belongs to the existing private Sites deployment. A separate repository may host `dist/` without it.
+## Permissions and verification
+Confirm logo/photo reuse permission with the shop. Public availability is not a verified reuse license. Confirm current hours and pricing with owner before adding. Review excerpts are verbatim brief excerpts from https://www.bestprosintown.com/ny/lindenhurst/delaware-barber-shop-/ . No invented rating or reviewer names.
+
+History source: https://villageoflindenhurstny.gov/delaware-barber-shop-ribbon-cutting-ceremony/
